@@ -1,0 +1,9 @@
+<resources>
+    <color name="lucidia_night_sky">#1F2438</color>
+    <color name="lucidia_teal_primary">#5BB5B5</color>
+    <color name="lucidia_teal_surface">#6CBDBD</color>
+    <color name="lucidia_coral">#FF7E55</color>
+    <color name="lucidia_coral_dark">#E85D30</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
